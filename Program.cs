@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+using Microsoft.EntityFrameworkCore;
+using System.Text;
+
 namespace NetcoreChallenge
 {
     public class Program
