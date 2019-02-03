@@ -17,3 +17,8 @@ Open [https://localhost:5001/api/courses](https://localhost:5001/api/courses) to
 Will return the JSON.
 
 This REST API to be called from ReactChallenge
+
+-----
+
+To preload rows into a MySQL Database, use:
+#### challenger.sql
