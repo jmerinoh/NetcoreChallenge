@@ -21,4 +21,4 @@ This REST API to be called from ReactChallenge
 -----
 
 To preload rows into a MySQL Database, use:
-#### challenger.sql
+#### challenge.sql
