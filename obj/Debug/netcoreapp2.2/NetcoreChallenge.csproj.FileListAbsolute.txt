@@ -1,0 +1,14 @@
+/Nuvek/dev/test/NetcoreChallenge/bin/Debug/netcoreapp2.2/NetcoreChallenge.deps.json
+/Nuvek/dev/test/NetcoreChallenge/bin/Debug/netcoreapp2.2/NetcoreChallenge.runtimeconfig.json
+/Nuvek/dev/test/NetcoreChallenge/bin/Debug/netcoreapp2.2/NetcoreChallenge.runtimeconfig.dev.json
+/Nuvek/dev/test/NetcoreChallenge/bin/Debug/netcoreapp2.2/NetcoreChallenge.dll
+/Nuvek/dev/test/NetcoreChallenge/bin/Debug/netcoreapp2.2/NetcoreChallenge.pdb
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.csprojAssemblyReference.cache
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.csproj.CoreCompileInputs.cache
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.RazorAssemblyInfo.cache
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.RazorAssemblyInfo.cs
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.AssemblyInfoInputs.cache
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.AssemblyInfo.cs
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.RazorTargetAssemblyInfo.cache
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.dll
+/Nuvek/dev/test/NetcoreChallenge/obj/Debug/netcoreapp2.2/NetcoreChallenge.pdb
