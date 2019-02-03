@@ -15,15 +15,8 @@ namespace NetcoreChallenge.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            //return new string[] { "course1", "course2" };
-            // return Content(
-            //     "{"
-            //     + "\"cou1\": {\"name\": \"Windows 10\",\"desc\":\"W Fundamentals\",\"price\": 299,\"status\": \"available\" }"
-            //     + ",\"cou2\": {\"name\": \"Networking\",\"desc\":\"Networking for PRO\",\"price\": 799,\"status\": \"available\" }"
-            //     + "}"
-            //     , "application/json");
             string valuex = "{";
-            // Gets and prints all courses in database
+            // Gets all courses in database
             using (var context = new LibraryContext())
             {
                 var courses = context.Course;
@@ -37,13 +30,10 @@ namespace NetcoreChallenge.Controllers
                     + ",\"status\":" + " \"" + course.status + "\""
                     + "}"
                     ;
-                    // data.AppendLine($"desc: {course.desc}");
-                    // data.AppendLine($"status: {course.status}");
-                    // valuex = valuex + data.ToString();
                 }
             }
             Console.WriteLine(valuex);
-            return Content(valuex+"}");
+            return Content(valuex + "}");
         }
 
     }
